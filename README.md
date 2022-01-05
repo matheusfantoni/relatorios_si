@@ -1,2 +1,2 @@
 # relatorios_si
-Repositório que contém relatórios de Segurança da Informação para auxílio.
+Repositório que contém modelos de relatórios de Segurança da Informação para auxílio.
